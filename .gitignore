@@ -1,0 +1,5 @@
+src/angular.min.js
+src/jquery.js
+src/LCL.js
+test/testIndex.html
+test/new_file.js
